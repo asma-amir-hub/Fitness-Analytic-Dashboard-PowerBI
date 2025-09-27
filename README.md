@@ -1,10 +1,10 @@
 # Fitness & Gym Management Dashboard
 
 [![Dashboard Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow.svg)](https://powerbi.microsoft.com/)
-[![Data Source](https://img.shields.io/badge/Data-Excel%2FC SV-green.svg)](Fitness_Dataset.csv)
+[![Data Source](https://img.shields.io/badge/Data-Excel%2FCSV-green.svg)](Fitness_Dataset.csv)
 [![Category](https://img.shields.io/badge/Category-Business%20Intelligence-blue.svg)](Fitness-Dashboard.pbix)
 
-![Fitness Dashboard Home](images/Home.png)
+![Fitness Dashboard Home](Images/Home.png)
 
 ## Project Overview
 
@@ -57,7 +57,7 @@ The dashboard tracks and visualizes the following core metrics:
 ### Home Page
 The Home Page serves as a visually engaging landing screen, setting a professional tone for the analytic dashboard.
 
-![Home Page Screenshot](images/Home_Splash.png)
+![Home Page Screenshot](Images/Home.png)
 
 ### Overview Page
 This page provides a high-level summary of the gym's financial and membership performance.
@@ -65,21 +65,21 @@ This page provides a high-level summary of the gym's financial and membership pe
 -   **Category Breakdown:** Shows the distribution of members by membership type and status.
 -   **Memberships:** Lists members by their status and progress percentage.
 
-![Overview Page Screenshot](images/Overview.png)
+![Overview Page Screenshot](Images/Overview.png)
 
 ### Calculator Page
 A functional tool for members to track their health metrics.
 -   **BMI Calculator:** Calculates Body Mass Index based on user inputs.
 -   **Calorie Calculator:** Estimates daily calorie needs for maintenance or weight loss based on activity level.
 
-![Calculator Page Screenshot](images/Calculator.png)
+![Calculator Page Screenshot](Images/Calculator.png)
 
 ### Members Page
 This page offers a deep dive into member demographics and individual details.
 -   **Demographics:** Visualizes the member base by age, gender, and status.
 -   **Member Information:** A searchable and filterable table with detailed information for each member.
 
-![Members Page Screenshot](images/Members.png)
+![Members Page Screenshot](Images/Members.png)
 
 ## Dataset
 The analysis is powered by the `Fitness_Dataset.csv` file, which contains anonymized data for 100 members. The dataset includes columns such as:
@@ -96,4 +96,5 @@ To explore the interactive dashboard:
 4.  The dashboard will load with the embedded data, ready for interaction.
 
 ## Conclusion
+
 This Fitness Dashboard is a powerful tool for any gym owner looking to leverage data for strategic advantage. By providing clear, visual insights into finances, member behavior, and engagement, it empowers management to make smarter decisions that drive growth and improve member satisfaction.
